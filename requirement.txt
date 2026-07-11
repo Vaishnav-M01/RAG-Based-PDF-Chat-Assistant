@@ -1,0 +1,8 @@
+inngest
+python-dotenv
+qdrant-client
+openai
+llama-index
+llama-index-readers-file
+pypdf
+sentence-transformers
